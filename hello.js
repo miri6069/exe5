@@ -14,3 +14,7 @@ const c = () => {
 console.log("miriiii");
     
 }
+const d = () => {
+console.log("hi");
+    
+}
