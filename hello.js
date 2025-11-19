@@ -9,3 +9,7 @@ return 5
 
 }
 
+const c = () => {
+
+    return '1'
+}
