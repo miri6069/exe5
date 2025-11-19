@@ -9,3 +9,8 @@ return 5
 
 }
 
+
+const c = () => {
+console.log("miriiii");
+    
+}
